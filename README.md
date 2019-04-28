@@ -1,4 +1,4 @@
-env-linux
+# env-linux
 
 Shell scripts to prepare my computer after formatting.
 
