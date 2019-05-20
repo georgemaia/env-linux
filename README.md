@@ -2,13 +2,30 @@
 
 Shell scripts to prepare my computer after formatting.
 
-### Develop
+### Usage
+
+```
+wget https://raw.githubusercontent.com/georgemaia/env-linux/master/SCRIPT.sh
+chmod +x SCRIPT.sh
+sudo ./SCRIPT.sh
+
+where SCRIPT is the name of the script.
+```
+
+### PHP 7 Enviroment
+
+*php7env.sh*
 
 -   PHP - [https://www.php.net/](https://www.php.net/)
     
 -   MariaDB - [https://mariadb.org/](https://mariadb.org/)
     
 -   PHPMyAmin - [https://www.phpmyadmin.net/](https://www.phpmyadmin.net/)
+
+
+### Develop
+
+*develop.sh*
     
 -   Anaconda - [https://www.anaconda.com/](https://www.anaconda.com/)
     
@@ -23,6 +40,8 @@ Shell scripts to prepare my computer after formatting.
 
 ### Graphic
 
+*graphic.sh*
+
 -   Gimp - [https://www.gimp.org/](https://www.gimp.org/)
     
 -   Inkscape - [https://inkscape.org/](https://inkscape.org/)
@@ -33,6 +52,8 @@ Shell scripts to prepare my computer after formatting.
     
 
 ### Video
+
+*video.sh*
 
 -   Openshot - [https://www.openshot.org/](https://www.openshot.org/)
     
@@ -49,12 +70,16 @@ Shell scripts to prepare my computer after formatting.
 
 ### Audio
 
+*audio.sh*
+
 -   Audacity - [https://www.audacityteam.org/](https://www.audacityteam.org/)
     
 -   Spotify - [https://www.spotify.com/](https://www.spotify.com/)
     
 
 ### Productivity
+
+*Productivity.sh*
 
 -   Google Chrome - [https://www.google.com/chrome/](https://www.google.com/chrome/)
     
