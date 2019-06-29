@@ -108,4 +108,6 @@ where SCRIPT is the name of the script.
 
 *Maps.sh*
 
+-   JOSM - [https://josm.openstreetmap.de/](https://josm.openstreetmap.de/)
+
 -   QGIS - [https://www.qgis.org/](https://www.qgis.org/)
