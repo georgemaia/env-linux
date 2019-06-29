@@ -102,3 +102,10 @@ where SCRIPT is the name of the script.
 -   Calibre - [https://calibre-ebook.com/](https://calibre-ebook.com/)
     
 -   Mendeley - [https://www.mendeley.com/](https://www.mendeley.com/)
+
+
+### Maps
+
+*Maps.sh*
+
+-   QGIS - [https://www.qgis.org/](https://www.qgis.org/)
