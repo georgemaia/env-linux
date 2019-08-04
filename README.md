@@ -22,6 +22,12 @@ where SCRIPT is the name of the script.
     
 -   PHPMyAmin - [https://www.phpmyadmin.net/](https://www.phpmyadmin.net/)
 
+-   PostgreSQL - [https://www.postgresql.org/](https://www.postgresql.org/)
+
+-   DB Browse for Sqlite - [https://sqlitebrowser.org/](https://sqlitebrowser.org/)
+
+-   DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
+
 
 ### Develop
 
