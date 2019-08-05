@@ -17,9 +17,9 @@ where SCRIPT is the name of the script.
 *php7env.sh*
 
 -   PHP - [https://www.php.net/](https://www.php.net/)
-    
+
 -   MariaDB - [https://mariadb.org/](https://mariadb.org/)
-    
+
 -   PHPMyAmin - [https://www.phpmyadmin.net/](https://www.phpmyadmin.net/)
 
 -   PostgreSQL - [https://www.postgresql.org/](https://www.postgresql.org/)
@@ -29,7 +29,16 @@ where SCRIPT is the name of the script.
 -   DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
 
 
-### Develop
+### Javascript Enviroment
+
+*javascript.sh*
+
+-   NodeJs - [https://www.nodejs.org/](https://www.nodejs.org/)
+
+-   Yarn - [https://www.yarhnpkg.com/](https://www.yarhnpkg.com/)
+
+
+### Development
 
 *develop.sh*
     
