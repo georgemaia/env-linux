@@ -12,7 +12,7 @@ sudo ./SCRIPT.sh
 where SCRIPT is the name of the script.
 ```
 
-### PHP 7 Enviroment
+### PHP 7 & Javascript Enviroment
 
 *php7env.sh*
 
@@ -28,17 +28,13 @@ where SCRIPT is the name of the script.
 
 -   DBeaver - [https://dbeaver.io/](https://dbeaver.io/)
 
-
-### Javascript Enviroment
-
-*javascript.sh*
-
 -   NodeJs - [https://www.nodejs.org/](https://www.nodejs.org/)
 
 -   Yarn - [https://www.yarhnpkg.com/](https://www.yarhnpkg.com/)
 
 
-### Development
+
+### Develop Tools
 
 *develop.sh*
     
@@ -94,7 +90,7 @@ where SCRIPT is the name of the script.
 
 ### Productivity
 
-*Productivity.sh*
+*productivity.sh*
 
 -   Google Chrome - [https://www.google.com/chrome/](https://www.google.com/chrome/)
     
@@ -121,7 +117,7 @@ where SCRIPT is the name of the script.
 
 ### Maps
 
-*Maps.sh*
+*maps.sh*
 
 -   JOSM - [https://josm.openstreetmap.de/](https://josm.openstreetmap.de/)
 
