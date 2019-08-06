@@ -79,15 +79,6 @@ where SCRIPT is the name of the script.
 -   Popcorn Time - [https://popcorntime.sh/](https://popcorntime.sh/)
     
 
-### Audio
-
-*audio.sh*
-
--   Audacity - [https://www.audacityteam.org/](https://www.audacityteam.org/)
-    
--   Spotify - [https://www.spotify.com/](https://www.spotify.com/)
-    
-
 ### Productivity
 
 *productivity.sh*
@@ -117,8 +108,17 @@ where SCRIPT is the name of the script.
 
 ### Maps
 
-*maps.sh*
+*[maps.sh](maps.sh)*
 
 -   JOSM - [https://josm.openstreetmap.de/](https://josm.openstreetmap.de/)
 
 -   QGIS - [https://www.qgis.org/](https://www.qgis.org/)
+    
+
+### Audio
+
+*[audio.sh](audio.sh)*
+
+-   Audacity - [https://www.audacityteam.org/](https://www.audacityteam.org/)
+    
+-   Spotify - [https://www.spotify.com/](https://www.spotify.com/)
