@@ -47,37 +47,7 @@ where SCRIPT is the name of the script.
 -   Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
     
 -   Mark Text - [https://marktext.app/](https://marktext.app/)
-    
 
-### Graphic
-
-*graphic.sh*
-
--   Gimp - [https://www.gimp.org/](https://www.gimp.org/)
-    
--   Inkscape - [https://inkscape.org/](https://inkscape.org/)
-    
--   Darktable - [https://www.darktable.org/](https://www.darktable.org/)
-    
--   Rawtherapee - [https://rawtherapee.com/](https://rawtherapee.com/)
-    
-
-### Video
-
-*video.sh*
-
--   Openshot - [https://www.openshot.org/](https://www.openshot.org/)
-    
--   Kdenlive - [https://kdenlive.org/](https://kdenlive.org/)
-    
--   Kodi - [https://kodi.tv/](https://kodi.tv/)
-    
--   Vlc - [https://www.videolan.org/](https://www.videolan.org/)
-    
--   Stremio - [https://www.stremio.com](https://www.stremio.com/)
-    
--   Popcorn Time - [https://popcorntime.sh/](https://popcorntime.sh/)
-    
 
 ### Productivity
 
@@ -104,6 +74,36 @@ where SCRIPT is the name of the script.
 -   Calibre - [https://calibre-ebook.com/](https://calibre-ebook.com/)
     
 -   Mendeley - [https://www.mendeley.com/](https://www.mendeley.com/)
+
+
+### Video
+
+*video.sh*
+
+-   Openshot - [https://www.openshot.org/](https://www.openshot.org/)
+    
+-   Kdenlive - [https://kdenlive.org/](https://kdenlive.org/)
+    
+-   Kodi - [https://kodi.tv/](https://kodi.tv/)
+    
+-   Vlc - [https://www.videolan.org/](https://www.videolan.org/)
+    
+-   Stremio - [https://www.stremio.com](https://www.stremio.com/)
+    
+-   Popcorn Time - [https://popcorntime.sh/](https://popcorntime.sh/)
+    
+
+### Graphic
+
+*[graphic.sh](graphic.sh)*
+
+-   Gimp - [https://www.gimp.org/](https://www.gimp.org/)
+    
+-   Inkscape - [https://inkscape.org/](https://inkscape.org/)
+    
+-   Darktable - [https://www.darktable.org/](https://www.darktable.org/)
+    
+-   Rawtherapee - [https://rawtherapee.com/](https://rawtherapee.com/)
 
 
 ### Maps
