@@ -14,7 +14,7 @@ where SCRIPT is the name of the script.
 
 ### PHP 7 & Javascript Enviroment
 
-*php7env.sh*
+*[php7env.sh](php7env.sh)*
 
 -   PHP - [https://www.php.net/](https://www.php.net/)
 
@@ -36,7 +36,7 @@ where SCRIPT is the name of the script.
 
 ### Develop Tools
 
-*develop.sh*
+*[develop.sh](develop.sh)*
     
 -   Anaconda - [https://www.anaconda.com/](https://www.anaconda.com/)
     
@@ -51,7 +51,7 @@ where SCRIPT is the name of the script.
 
 ### Productivity
 
-*productivity.sh*
+*[productivity.sh](productivity.sh)*
 
 -   Google Chrome - [https://www.google.com/chrome/](https://www.google.com/chrome/)
     
@@ -78,7 +78,7 @@ where SCRIPT is the name of the script.
 
 ### Video
 
-*video.sh*
+*[video.sh](video.sh)*
 
 -   Openshot - [https://www.openshot.org/](https://www.openshot.org/)
     
@@ -87,10 +87,7 @@ where SCRIPT is the name of the script.
 -   Kodi - [https://kodi.tv/](https://kodi.tv/)
     
 -   Vlc - [https://www.videolan.org/](https://www.videolan.org/)
-    
--   Stremio - [https://www.stremio.com](https://www.stremio.com/)
-    
--   Popcorn Time - [https://popcorntime.sh/](https://popcorntime.sh/)
+
     
 
 ### Graphic
