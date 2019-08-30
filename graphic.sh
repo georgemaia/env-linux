@@ -25,14 +25,13 @@ sudo add-apt-repository ppa:otto-kesselgulasch/gimp
 sudo add-apt-repository ppa:inkscape.dev/stable
 sudo add-apt-repository ppa:pmjdebruijn/darktable-release
 sudo add-apt-repository ppa:dhor/myway
+sudo add-apt-repository ppa:elementary-os/daily
 
 # Update package lists
 apt-get update
 
-
 # Install some basic packages
-apt-get install -y gimp gimp-gmic gmic gimp-plugin-registry inkscape darktable rawtherapee
-
+apt-get install -y gimp gimp-gmic gmic gimp-plugin-registry inkscape darktable rawtherapee pantheon-photos
 
 # Clean up
 apt-get -y autoremove
