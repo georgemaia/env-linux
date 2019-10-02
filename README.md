@@ -119,3 +119,7 @@ where SCRIPT is the name of the script.
 -   Audacity - [https://www.audacityteam.org/](https://www.audacityteam.org/)
     
 -   Spotify - [https://www.spotify.com/](https://www.spotify.com/)
+
+## Referências
+
+[https://github.com/allythy/post-installation-debian](https://github.com/allythy/post-installation-debian)
