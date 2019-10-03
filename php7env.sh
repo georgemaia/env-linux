@@ -75,7 +75,7 @@ apt-get install -y nodejs
 /usr/bin/npm install -g grunt-cli
 
 # Install MariaDB
-apt-get install -y mariadb-server mariadb-client
+apt-get install -y mariadb-server mariadb-client phpmyadmin
 
 # Configure MariaDB Remote Access
 # sed -i '/^bind-address/s/bind-address.*=.*/bind-address = 0.0.0.0/' /etc/mysql/mysql.conf.d/mysqld.cnf
