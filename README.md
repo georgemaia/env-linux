@@ -85,6 +85,8 @@ where SCRIPT is the name of the script.
 -   Kdenlive - [https://kdenlive.org/](https://kdenlive.org/)
     
 -   Kodi - [https://kodi.tv/](https://kodi.tv/)
+
+-   Plex - [https://plex.tv](https://plex.tv/) 
     
 -   Vlc - [https://www.videolan.org/](https://www.videolan.org/)
 
