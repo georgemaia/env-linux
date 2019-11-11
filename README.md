@@ -34,6 +34,8 @@ where SCRIPT is the name of the script.
 
 - Ruby - [https://www.ruby-lang.org/](https://www.ruby-lang.org/)
 
+- Jekyll - [https://jekyllrb.com/](https://jekyllrb.com/)
+
 ## Develop Tools
 
 *[develop-tools.sh](develop-tools.sh)*
