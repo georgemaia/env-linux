@@ -123,3 +123,5 @@ where SCRIPT is the name of the script.
 [https://github.com/allythy/post-installation-debian](https://github.com/allythy/post-installation-debian)
 
 [https://github.com/jeanjar/provision.sh](https://github.com/jeanjar/provision.sh)
+
+[https://github.com/Diolinux/gabrielworkstation?files=1](https://github.com/Diolinux/gabrielworkstation?files=1)
