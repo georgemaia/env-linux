@@ -126,4 +126,6 @@ where SCRIPT is the name of the script.
 
 [https://github.com/Diolinux/gabrielworkstation?files=1](https://github.com/Diolinux/gabrielworkstation?files=1)
 
-[https://youtu.be/vBfj5dNZOSA](https://youtu.be/vBfj5dNZOSA)
+[Youtube: Criei um SISTEMA que se configura SOZINHO - Diolinux](https://youtu.be/vBfj5dNZOSA)
+
+[Youtube: Start Bash Scripting Today! -  Jerry Banfield](https://www.youtube.com/watch?v=tPKdfbL1Zv4&list=WL&index=32&t=5s)
