@@ -1,6 +1,6 @@
 # env-linux
 
-Shell scripts to prepare my computer after formatting.
+Shell scripts to prepare my computer after formatting using Ubuntu.
 
 ## Usage
 
@@ -75,6 +75,24 @@ where SCRIPT is the name of the script.
 - Calibre - [https://calibre-ebook.com/](https://calibre-ebook.com/)
 
 - Mendeley - [https://www.mendeley.com/](https://www.mendeley.com/)
+
+- Ubuntu Restricted Extras 
+```bash
+sudo apt install ubuntu-restricted-extras
+```
+- Zoom
+```bash
+wget -O Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
+cd Downloads
+sudo dpkg -i zoom.deb
+```
+- Timeshift
+```bash
+sudo apt-add-repository -y ppa:teejee2008/ppa
+sudo apt-get update
+sudo apt-get install timeshift
+```
+
 
 ## Video
 
