@@ -88,7 +88,7 @@ wget -O Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
 cd Downloads
 sudo dpkg -i zoom.deb
 ```
-- Timeshift
+- Timeshift - [https://github.com/teejee2008/timeshift](https://github.com/teejee2008/timeshift)
 ```bash
 sudo apt-add-repository -y ppa:teejee2008/ppa
 sudo apt-get update
