@@ -30,6 +30,8 @@ where SCRIPT is the name of the script.
 
 - NodeJs - [https://www.nodejs.org/](https://www.nodejs.org/)
 
+- npm - [https://www.npmjs.com/](https://www.npmjs.com/)
+
 - Yarn - [https://www.yarhnpkg.com/](https://www.yarhnpkg.com/)
 
 - Ruby - [https://www.ruby-lang.org/](https://www.ruby-lang.org/)
