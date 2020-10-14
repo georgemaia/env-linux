@@ -38,44 +38,51 @@ read -p "Escolha uma das opções: " opcao
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    2) chmod +x audio.sh && sudo ./audio.sh
+    2) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/audio.sh &&
+    chmod +x audio.sh && sudo ./audio.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    3) chmod +x develop-enviroment.sh && sudo ./develop-enviroment.sh
+    3) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/develop-enviroment.sh &&
+    chmod +x develop-enviroment.sh && sudo ./develop-enviroment.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    4) chmod +x develop-tools.sh && sudo ./develop-tools.sh
+    4) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/develop-tools.sh &&
+    chmod +x develop-tools.sh && sudo ./develop-tools.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    5) chmod +x graphic.sh && sudo ./graphic.sh
+    5) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/graphic.sh &&
+    chmod +x graphic.sh && sudo ./graphic.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    6) chmod +x maps.sh && sudo ./maps.sh
+    6) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/maps.sh &&
+    chmod +x maps.sh && sudo ./maps.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    7) chmod +x productivity.sh && sudo ./productivity.sh
+    7) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/productivity.sh &&
+    chmod +x productivity.sh && sudo ./productivity.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
-    8) chmod +x video.sh && sudo ./video.sh
+    8) wget https://raw.githubusercontent.com/georgemaia/env-linux/master/video.sh &&
+    chmod +x video.sh && sudo ./video.sh
     echo -e;
     read -p "Sistema atualizado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
 
     9) su &&
-        apt install sudo -y &&
-        adduser $USER sudo
+    apt install sudo -y &&
+    adduser $USER sudo
     echo -e;
     read -p "Programa instalado, deseja escolher outra opção ? [S/N]" voltar
     clear;;
