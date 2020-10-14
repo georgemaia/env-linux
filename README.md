@@ -4,13 +4,13 @@ Shell scripts to prepare my computer after formatting using Ubuntu.
 
 ## Usage
 
+``` bash
+wget https://raw.githubusercontent.com/georgemaia/env-linux/master/main.sh
+chmod +x main.sh
+sudo ./main.sh
 ```
-wget https://raw.githubusercontent.com/georgemaia/env-linux/master/SCRIPT.sh
-chmod +x SCRIPT.sh
-sudo ./SCRIPT.sh
 
-where SCRIPT is the name of the script.
-```
+---
 
 ## Development Enviroment
 
@@ -38,6 +38,8 @@ where SCRIPT is the name of the script.
 
 - Jekyll - [https://jekyllrb.com/](https://jekyllrb.com/)
 
+---
+
 ## Develop Tools
 
 *[develop-tools.sh](develop-tools.sh)*
@@ -51,6 +53,8 @@ where SCRIPT is the name of the script.
 - Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 - Mark Text - [https://marktext.app/](https://marktext.app/)
+
+---
 
 ## Productivity
 
@@ -99,6 +103,8 @@ sudo apt-get install timeshift
 sudo apt install gnome-tweaks
 ```
 
+---
+
 ## Video
 
 *[video.sh](video.sh)*
@@ -113,6 +119,8 @@ sudo apt install gnome-tweaks
 
 - Vlc - [https://www.videolan.org/](https://www.videolan.org/)
 
+---
+
 ## Graphic
 
 *[graphic.sh](graphic.sh)*
@@ -125,6 +133,8 @@ sudo apt install gnome-tweaks
 
 - Rawtherapee - [https://rawtherapee.com/](https://rawtherapee.com/)
 
+---
+
 ## Maps
 
 *[maps.sh](maps.sh)*
@@ -133,6 +143,8 @@ sudo apt install gnome-tweaks
 
 - QGIS - [https://www.qgis.org/](https://www.qgis.org/)
 
+---
+
 ## Audio
 
 *[audio.sh](audio.sh)*
@@ -140,6 +152,8 @@ sudo apt install gnome-tweaks
 - Audacity - [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
 - Spotify - [https://www.spotify.com/](https://www.spotify.com/)
+
+---
 
 ## Referências
 
