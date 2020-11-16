@@ -1,4 +1,4 @@
-# env-linux
+# Linux Applications Install
 
 Shell scripts to prepare my computer after formatting using Ubuntu Linux.
 
