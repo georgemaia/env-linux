@@ -1,10 +1,10 @@
 # Linux Applications Install
 
-Shell scripts to prepare my computer after formatting using Ubuntu Linux.
-
-This repository contains installation and update scripts, I use in my daily work.
+Shell scripts to prepare my computer after formatting using Ubuntu Linux. This repository contains installation and update scripts, I use in my daily work.
 
 For the Windows SO, try [https://github.com/georgemaia/env-windows](https://github.com/georgemaia/env-windows).
+
+---
 
 ## Usage
 
@@ -159,7 +159,7 @@ sudo apt install gnome-tweaks
 
 ---
 
-## Referências
+## References
 
 [https://github.com/allythy/post-installation-debian](https://github.com/allythy/post-installation-debian)
 
