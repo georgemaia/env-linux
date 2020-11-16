@@ -1,6 +1,10 @@
 # env-linux
 
-Shell scripts to prepare my computer after formatting using Ubuntu.
+Shell scripts to prepare my computer after formatting using Ubuntu Linux.
+
+This repository contains installation and update scripts, I use in my daily work.
+
+For the Windows SO, try [https://github.com/georgemaia/env-windows](https://github.com/georgemaia/env-windows).
 
 ## Usage
 
