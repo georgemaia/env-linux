@@ -64,27 +64,33 @@ sudo ./main.sh
 
 *[productivity.sh](productivity.sh)*
 
+- Calibre - [https://calibre-ebook.com/](https://calibre-ebook.com/)
+
+- Filezilla - [https://filezilla-project.org/](https://filezilla-project.org/)
+
 - Google Chrome - [https://www.google.com/chrome/](https://www.google.com/chrome/)
 
-- Telegram - [https://web.telegram.org/](https://web.telegram.org/)
+- Libreoffice - [https://www.libreoffice.org](https://www.libreoffice.org/)
+
+- Mendeley - [https://www.mendeley.com/](https://www.mendeley.com/)
 
 - Skype - [https://www.skype.com](https://www.skype.com/)
 
 - Slack - [https://slack.com/](https://slack.com/)
 
+- Telegram - [https://web.telegram.org/](https://web.telegram.org/)
+
 - Transmission - [https://transmissionbt.com/](https://transmissionbt.com/)
 
 - Teamviewer - [https://www.teamviewer.com/](https://www.teamviewer.com/)
 
-- Filezilla - [https://filezilla-project.org/](https://filezilla-project.org/)
-
-- Libreoffice - [https://www.libreoffice.org](https://www.libreoffice.org/)
+- Veracrypt - [https://www.veracrypt.fr/en/Home.html](https://www.veracrypt.fr/en/Home.html)
 
 - Xmind - [https://www.xmind.net/](https://www.xmind.net/)
 
-- Calibre - [https://calibre-ebook.com/](https://calibre-ebook.com/)
 
-- Mendeley - [https://www.mendeley.com/](https://www.mendeley.com/)
+
+
 
 - Ubuntu Restricted Extras 
 ```bash
