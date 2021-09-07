@@ -88,7 +88,10 @@ sudo ./main.sh
 
 - Xmind - [https://www.xmind.net/](https://www.xmind.net/)
 
-- ZSH - [https://ohmyz.sh/](https://ohmyz.sh/)
+- ZSH - [https://ohmyz.sh/](https://ohmyz.sh/) - Para definir o shell apdrão: 
+```bash
+chsh -s $(which zsh)
+```
 
 
 
