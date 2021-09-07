@@ -23,6 +23,8 @@ apt-get -y upgrade
 apt-get install -y software-properties-common curl
 sudo add-apt-repository ppa:unit193/encryption
 
+# Install ZSH
+sudo apt install zsh -y
 
 # Update package lists
 apt-get update

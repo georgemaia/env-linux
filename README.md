@@ -88,6 +88,8 @@ sudo ./main.sh
 
 - Xmind - [https://www.xmind.net/](https://www.xmind.net/)
 
+- ZSH - [https://ohmyz.sh/](https://ohmyz.sh/)
+
 
 
 
