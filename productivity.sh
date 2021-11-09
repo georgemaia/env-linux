@@ -29,9 +29,14 @@ sudo apt install zsh -y
 # Update package lists
 apt-get update
 
-
 # Install some basic packages
 apt-get install -y veracrypt
+
+# Install XRDP Protocol 
+sudo apt isntall xrdp
+
+# Autostart XRDP
+sudo systemctl enable xrdp
 
 
 # Clean up
