@@ -32,8 +32,21 @@ apt-get update
 # Install some basic packages
 apt-get install -y veracrypt
 
-# Install XRDP Protocol 
-sudo apt isntall xrdp
+# Install XRDP Protocol
+sudo apt install xrdp
+
+# Install AnyDesk
+    # GPG Key
+    sudo wget -O /usr/share/keyrings/anydesk-archive-keyring.gpg https://keys.anydesk.com/repos/DEB-GPG-KEY
+
+    # Anydesk Repository
+    echo "deb [signed-by=/usr/share/keyrings/anydesk-archive-keyring.gpg] http://deb.anydesk.com/ all main" | sudo tee /etc/apt/sources.list.d/anydesk.list
+
+    # Update Package List
+    sudo apt update
+
+    # Install AnyDesk
+    sudo apt install anydesk -y
 
 # Autostart XRDP
 sudo systemctl enable xrdp
